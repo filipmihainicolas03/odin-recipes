@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url("file:///home/odinstudent/Desktop/repos/odin-recipes/recipes/bon-appetit-seamless-background-pattern-with-scattered-ingredients-kitchen-utensils-making-italian-ravioli-pasta-square-format-suitable-wallpaper-wrapping-paper-fabric_1284-44086.avif") ;
+    background-image: url("../odin-recipes/recipes/bon-appetit-seamless-background-pattern-with-scattered-ingredients-kitchen-utensils-making-italian-ravioli-pasta-square-format-suitable-wallpaper-wrapping-paper-fabric_1284-44086.avif") ;
     font-family: serif;
     text-align: center;
 }
@@ -21,7 +21,7 @@ img {
 a:link, a:visited {
   background-color: orange;
   color: white;
-  padding: 14px 25px;
+  padding: 12px 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
