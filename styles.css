@@ -31,3 +31,48 @@ a:link, a:visited {
 a:hover, a:active {
     opacity: 0.8
 }
+.title {
+    font-size: 45px;
+    font-family: "Trirong", serif;
+}
+.description {
+  background-color: burlywood;
+  opacity: 0.9;
+  width: auto;
+  height: auto;
+  padding: 40px;
+  margin: 20px;
+  border-radius: 30px;
+  font-size: 20px;
+  font-family: "Trirong", serif;
+}
+.ingredients {
+  background-color: burlywood;
+  position: left;
+  opacity: 0.9;
+  width: 50%;
+  height: 100%;
+  border-radius: 30px;
+  font-size: 20px;
+  font-family: "Trirong", serif;
+}
+.steps {
+    background-color: burlywood;
+    opacity: 0.9;
+    position: right;
+    width: 50%;
+    height: 100%;
+    border-radius: 30px;
+    font-size: 20px;
+    font-family: "Trirong", serif;  
+}
+ul {
+    list-style-position: inside;
+}
+ol {
+    list-style-position: inside;
+}
+.image {
+    width: 700px;
+    height: 600px;
+}
